@@ -1,5 +1,3 @@
-# Ulises-Olvera
-
 # 👋 Hola, soy Ulises Olvera
 
 💻 Data Analyst | Python | SQL | Google Sheets  
@@ -45,9 +43,12 @@ Se realizó limpieza y transformación de datos para estandarizar métricas entr
 💡 Los resultados pueden apoyar decisiones en movilidad, planeación urbana y optimización de recursos.
 🛠️ Skills: Python | Pandas | MatPlotlib
 
-<img width="613" height="530" alt="image" src="https://github.com/user-attachments/assets/e9859060-08e6-48d2-abcb-1a448a08827f" />
-<img width="954" height="512" alt="image" src="https://github.com/user-attachments/assets/bad30648-e63d-4ced-ab08-f542bc4acc57" />
-<img width="1098" height="526" alt="image" src="https://github.com/user-attachments/assets/db179a16-e457-45b7-942e-d75de7b450ce" />
+<img width="306" height="265" alt="image" src="https://github.com/user-attachments/assets/e9859060-08e6-48d2-abcb-1a448a08827f" />
+<img width="477" height="260" alt="image" src="https://github.com/user-attachments/assets/bad30648-e63d-4ced-ab08-f542bc4acc57" />
+<img width="549" height="263" alt="image" src="https://github.com/user-attachments/assets/db179a16-e457-45b7-942e-d75de7b450ce" />
+
+
+
 
 
  📊 Análisis de embudo y retención para MercadoLibre
@@ -67,10 +68,10 @@ Se aplicaron consultas en SQL para medir tasas de conversión entre etapas y ana
 
 💡 El análisis permite identificar puntos de fricción en el embudo y oportunidades para mejorar la experiencia del usuario y la conversión.
 
-<img width="1022" height="648" alt="image" src="https://github.com/user-attachments/assets/0c355ad2-e3bd-4591-8322-1c3175413ac3" />
-<img width="996" height="621" alt="image" src="https://github.com/user-attachments/assets/8f7bdde8-8f5c-49b5-ac24-35d394fbf0a0" />
-<img width="1093" height="249" alt="image" src="https://github.com/user-attachments/assets/ad5770ed-d9b0-4fd5-954d-f957032f02f7" />
-<img width="1283" height="650" alt="image" src="https://github.com/user-attachments/assets/bf8c90bd-0619-4257-a127-6946e6fdd150" />
+<img width="511" height="324" alt="image" src="https://github.com/user-attachments/assets/0c355ad2-e3bd-4591-8322-1c3175413ac3" />
+<img width="498" height="310" alt="image" src="https://github.com/user-attachments/assets/8f7bdde8-8f5c-49b5-ac24-35d394fbf0a0" />
+<img width="546" height="124" alt="image" src="https://github.com/user-attachments/assets/ad5770ed-d9b0-4fd5-954d-f957032f02f7" />
+<img width="641" height="325" alt="image" src="https://github.com/user-attachments/assets/bf8c90bd-0619-4257-a127-6946e6fdd150" />
 
 
 
